@@ -13,7 +13,7 @@
     ·
     <a href="https://ripeplan.com/blog">Read Blog</a>
     <br />
-    🎉 Version 0.0.1 is out. Check out the release notes
+    Check out the latest release notes
     <a href="https://ripeplan.com/release-notes">here</a>.
     <br />
   </p>

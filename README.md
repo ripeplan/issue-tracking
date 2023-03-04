@@ -9,8 +9,6 @@
     <br />
     <a href="https://ripeplan.com">Features</a>
     ·
-    <a href="https://ripeplan.com/roadmap">Roadmap</a>
-    ·
     <a href="https://github.com/ripeplan/issue-tracking/issues/new/choose">Report Bug</a>
     ·
     <a href="https://ripeplan.com/blog">Read Blog</a>

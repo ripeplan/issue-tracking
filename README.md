@@ -11,7 +11,7 @@
     ·
     <a href="https://ripeplan.com/roadmap">Roadmap</a>
     ·
-    <a href="https://github.com/ripe-plan/issue-tracking/issues">Report Bug</a>
+    <a href="https://github.com/ripeplan/issue-tracking/issues/new/choose">Report Bug</a>
     ·
     <a href="https://ripeplan.com/blog">Read Blog</a>
     <br />
